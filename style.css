@@ -24,6 +24,7 @@
 
 img {   
     width: 200px;
+    cursor: pointer;
 }
 .acor-container .acor-body img {
     margin: 0 0 10px;
