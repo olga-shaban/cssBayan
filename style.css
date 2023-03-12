@@ -48,10 +48,7 @@ img {
 .acor-container input{
     display: none;
 }
-/*.acor-container label:before {
-    content: '\276F';
-    float: right;
-}*/
+
 .acor-container input:checked + label {
 
   /*  background-color: #285f8f;*/
@@ -93,8 +90,7 @@ h1 {
 
 .acor-container:hover label:before {
     content: '\276F';
-  float: right;
- 
+ margin-right: 10%;
 }
 
 .acor-container input:hover + label + .acor-body {
